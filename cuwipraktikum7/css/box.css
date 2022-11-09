@@ -1,0 +1,43 @@
+.box1{
+    background-color: lightblue;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box2{
+    background-color: lightpink;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box3{
+    background-color: lightgrey;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}   
+
+.box4{
+    background-color: lightgoldenrodyellow;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    margin: 1em;
+}
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+}
